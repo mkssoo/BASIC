@@ -1,0 +1,7 @@
+100 PRINT "Enter number";
+110 INPUT A
+120 PRINT "Enter string";
+130 INPUT S$
+140 PRINT A
+150 PRINT S$
+160 END
